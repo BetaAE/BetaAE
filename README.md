@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/Beta-A-E/">LinkedIn</a> - 
   <a href="https://x.com/Beta-A-E">Twitter</a> -
   <a href="#">Website</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
+  <a href="https://crowdsource.google.com/about/open-source/">Google Featured</a> -
   <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
 </p>
 

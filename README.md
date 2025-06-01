@@ -37,8 +37,8 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 ## Social Links
 <div style="display: inline_block">
   <a href="mailto:am.abdulmueed3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-464646?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" target="_blank" /><a/>
-  <a href="https://www.linkedin.com/in/alexander-davis-2669191b9/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-025E92?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank" /></a>
-  <a href="https://alexanderdavis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" target="_blank" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-025E92?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank" /></a>
+  <a href="https://bae.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" target="_blank" /></a>
 </div>
 
 ## GitHub Stats

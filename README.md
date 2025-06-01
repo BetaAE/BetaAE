@@ -43,7 +43,7 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=BetaAE&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats for Abdul Mueed" width="700"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=midnight-purple&show_icons=true" width="700">
 

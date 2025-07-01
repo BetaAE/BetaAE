@@ -37,14 +37,14 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 ## Social Links
 <div style="display: inline_block">
   <a href="mailto:am.abdulmueed2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-464646?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" target="_blank" /><a/>
-  <a href="https://betaae.framer.ai/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" target="_blank" /></a>
+  <a href="https://am-abdulmueed.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" target="_blank" /></a>
 </div>
 
 ## GitHub Stats
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=midnight-purple&show_icons=true" width="700">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunny2&theme=midnight-purple&show_icons=true" width="700">
 

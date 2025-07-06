@@ -39,16 +39,12 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
   <a href="mailto:am.abdulmueed3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-464646?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  
-  <a href="https://www.linkedin.com/betaae" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-025E92?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  
-  <a href="https://wa.me/923001234567" target="_blank">
+     
+  <a href="https://wa.me/923088200384" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/am-abdulmueed" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
